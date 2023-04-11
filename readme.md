@@ -14,5 +14,7 @@ pnpm remove rollup --filter packageA // 把packageA中的rollup移除
 
 
 nrm use npm // 切换源
+
 npm login // 登陆
+
 npm publish --access publick // 发布
