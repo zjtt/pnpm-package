@@ -1,6 +1,6 @@
 {
   "name": "@zh-achieve/utils",
-  "version": "0.0.6-beta.2",
+  "version": "0.0.6-beta.3",
   "description": "工具函数大全",
   "main": "./dist/bundle.cjs.js",
   "module": "./dist/bundle.es.js",
@@ -16,6 +16,7 @@
   "files": [
     "dist"
   ],
+  "homepage": "https://github.com/zjtt/pnpm-package/tree/main/packages/utils",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/",
     "access": "public"

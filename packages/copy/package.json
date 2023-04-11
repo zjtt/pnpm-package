@@ -16,6 +16,7 @@
   "files": [
     "dist"
   ],
+  "homepage": "https://github.com/zjtt/pnpm-package/tree/main/packages/copy",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/",
     "access": "public"
