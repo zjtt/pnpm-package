@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    // 推荐安装
+    "dbaeumer.vscode-eslint",
+    "editorconfig.editorconfig",
+    "vue.volar",
+    "esbenp.prettier-vscode",
+    "eamodio.gitlens"
+  ],
+  "unwantedRecommendations": []
+}
